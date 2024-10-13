@@ -70,7 +70,7 @@ bricks = generate_bricks()
 game_active = False
 game_over = False
 score = 0
-player_name = "Player"  # You can modify this to accept player input
+player_name = "SATYAM"  # You can modify this to accept player input
 
 # Draw the Start Menu
 def draw_start_menu():
